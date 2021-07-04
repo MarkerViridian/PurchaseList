@@ -1,9 +1,9 @@
 # Metadata
 title: "ViridianMarker's Purchase List"
 favicon: assets/img/favicon.png
-description: A list of commands to let you be a hero/villan of ViridianMarker's RimWorld Colony.
+description: A list of commands to let you be a hero OR villan of ViridianMarker's RimWorld Colony.
 
-baseurl: '/itemlist' # the subpath of your site, e.g. /blog
+baseurl: '/PurchaseList' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ''
 github_username: 'ViridianMarker'
@@ -28,7 +28,7 @@ store:
     karma: true
     limit: true
     description: true
-    usage: false
+    usage: true
     mod: true
   kinds:
     mod: true
