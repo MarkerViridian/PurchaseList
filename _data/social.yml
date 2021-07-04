@@ -21,17 +21,17 @@ tumblr:
 twitter:
 vimeo:
 wordpress:
-youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
-twitch: sirrandoo
+youtube: UC-VIaBgumu62-Wg6bDtgTcQ
+twitch: ViridianMarker
 
 # Share button options
 share:
   facebook: true
   twitter: true
-  tumblr:
-  pinterest:
-  pocket:
+  tumblr: false
+  pinterest: false
+  pocket: false
   reddit: true
-  linkedin:
-  wordpress:
+  linkedin: false
+  wordpress: false
   email: true
