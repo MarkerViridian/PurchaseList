@@ -2222,7 +2222,7 @@
 	},
 	{
 		"abr": "prestigereconarmor",
-		"price": 3290,
+		"price": -10,
 		"category": "Armor",
 		"defname": "Apparel_ArmorReconPrestige"
 	},
@@ -2234,7 +2234,7 @@
 	},
 	{
 		"abr": "prestigemarinearmor",
-		"price": 4200,
+		"price": -10,
 		"category": "Armor",
 		"defname": "Apparel_ArmorMarinePrestige"
 	},
@@ -2258,7 +2258,7 @@
 	},
 	{
 		"abr": "prestigecataphractarmor",
-		"price": 6550,
+		"price": -10,
 		"category": "Armor",
 		"defname": "Apparel_ArmorCataphractPrestige"
 	},
@@ -3230,7 +3230,7 @@
 	},
 	{
 		"abr": "trooperarmor",
-		"price": 1920,
+		"price": 1917,
 		"category": "Armor",
 		"defname": "VAE_Apparel_TrooperArmor"
 	},
@@ -7718,7 +7718,7 @@
 	},
 	{
 		"abr": "prestigetrooperarmor",
-		"price": 2425,
+		"price": -10,
 		"category": "Armor",
 		"defname": "VAE_Apparel_RoyalTrooperArmor"
 	},
@@ -7730,7 +7730,7 @@
 	},
 	{
 		"abr": "prestigesiegebreakerarmor",
-		"price": 6760,
+		"price": -10,
 		"category": "Armor",
 		"defname": "VAE_Apparel_RoyalSiegeArmor"
 	},
