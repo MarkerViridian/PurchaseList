@@ -186,18 +186,23 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "alphabeavers",
-		"price": 600,
-		"karmatype": "Bad"
-	},
-	{
 		"abr": "militaryaid",
 		"price": 700,
 		"karmatype": "Good"
 	},
 	{
+		"abr": "raid",
+		"price": 3000,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "manhunterpack",
 		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "predators",
+		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
@@ -244,6 +249,11 @@
 		"abr": "randominspire",
 		"price": 450,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "torytalkervote",
+		"price": 750,
+		"karmatype": "Neutral"
 	},
 	{
 		"abr": "hodlbotvote",
@@ -296,11 +306,6 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "fullheal",
-		"price": 2167,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "passion",
 		"price": 7000,
 		"karmatype": "Good"
@@ -336,20 +341,10 @@
 		"karmatype": "Neutral"
 	},
 	{
-		"abr": "randomchildhood",
-		"price": 3000,
-		"karmatype": "Neutral"
-	},
-	{
-		"abr": "randomadulthood",
-		"price": 3000,
-		"karmatype": "Neutral"
-	},
-	{
 		"abr": "sanctuary",
 		"price": 100000,
 		"karmatype": "Good"
 	}
 	],
-	"total": 70
+	"total": 69
 }
